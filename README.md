@@ -21,7 +21,8 @@ Future Features:
 * Advanced Shutdown menu (including Hot Boot)
 * SetCPU profiles for performance (gaming mode), and heat reduction.
 * A full set of CPU governors. Dual core compatability. More governors on request.
-* New, updated kernel.
+* New, updated kernel (NFC emulation planned)
+* WiFi Direct support
 * Loopback support
 * init.d support
 * Network tweaks for speed.
