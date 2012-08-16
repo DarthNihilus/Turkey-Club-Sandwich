@@ -25,6 +25,7 @@ Future Features:
 * Loopback support
 * init.d support
 * Network tweaks for speed.
+* Enhanced Camera. (similar to TouchWiz camera)
 * Notification bar in fullscreen mode. (Like iPhone, MIUI and TouchWiz)
 * Weather center (like iPhone)
 * Weather in lockscreen (like CM10)
